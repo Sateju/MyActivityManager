@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyActivityManager</string>
+    <string name="ok">OK</string>
+    <string name="start_a_new_activity">Start a new Activity</string>
+    <string name="display_info">Display info</string>
+</resources>
